@@ -1,0 +1,25 @@
+.sign-up{
+    width: 90px;
+    height: 45px;
+}
+body{
+    background-image: url("picture/sea.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+}
+.masthead{
+    margin-top: 12%;
+}
+.title{
+    font-size: 55px;
+}
+.submit{
+    width:90px;
+    height: 50px;
+}
+.email input:focus {
+    outline: none;
+}
